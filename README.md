@@ -1,5 +1,9 @@
 # Msi test
 
+Kode ini mendefinisikan dua layar, Layar A dan Layar B. Layar A berisi dua bidang teks untuk memasukkan kalimat, dan ketika Anda menekan tombol "Buka ke Layar B", itu akan navigasi ke Layar B dan meneruskan kalimat sebagai argumen.
+
+Di Layar B, Anda dapat mengimplementasikan fungsi processSentences untuk memproses kalimat dan menghasilkan hasilnya. Fungsi ini mencari karakter yang sama dalam kedua kalimat dan mengembalikan hasilnya.
+
 A new Flutter project created with FlutLab - https://flutlab.io
 
 ## Getting Started
